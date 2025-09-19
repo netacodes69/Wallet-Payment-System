@@ -29,7 +29,7 @@ Tools: IntelliJ IDEA, Git, GitHub
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/NoBrain-UI/Wallet_Payment_System.git
+git clone https://github.com/netacodes69/Wallet-Payment-System.git
 cd Wallet_Payment_System
 
 2. Configure PostgreSQL
